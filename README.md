@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alino20
 - 👀 I’m interested in Web Development, AI and Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning low level programming / reverse engineering
 - 💞️ I’m looking to collaborate on Web Development and AI Projects
 - 📫 How to reach me: [Gmail](mailto:alinosrati1995@gmail.com)
 
